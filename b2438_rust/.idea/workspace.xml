@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3efc90d1-fb45-477f-945d-a26f53f72723" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/.vs/Baekjoon_1260/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/.vs/Baekjoon_1260/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/.vs/Baekjoon_1260/v16/ipch/AutoPCH/a3f720829cf6ad2c/BAEKJOON_1260.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/.vs/Baekjoon_1260/v16/ipch/AutoPCH/f6b541240db99df0/BAEKJOON_1260.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Baekjoon_1260.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Baekjoon_1260.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Baekjoon_1260.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Baekjoon_1260.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/Baekjoon_1260.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Debug/Baekjoon_1260.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Debug/Baekjoon_1260.pdb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="fokr59o4" />
+  </component>
+  <component name="ProjectId" id="1hjvTzQgzwjZRO73oh9fY6h9HgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../b1260" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package b2438_rust --bin b2438_rust" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3efc90d1-fb45-477f-945d-a26f53f72723" name="Default Changelist" comment="" />
+      <created>1600537327747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600537327747</updated>
+      <workItem from="1600537328887" duration="1119000" />
+      <workItem from="1600577380337" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1239" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600577423233">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1239" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600577423233" />
+    <state width="873" height="275" key="GridCell.Tab.0.bottom" timestamp="1600538412942">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="873" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600538412942" />
+    <state width="873" height="275" key="GridCell.Tab.0.center" timestamp="1600538412941">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="873" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600538412941" />
+    <state width="873" height="275" key="GridCell.Tab.0.left" timestamp="1600538412941">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="873" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600538412941" />
+    <state width="873" height="275" key="GridCell.Tab.0.right" timestamp="1600538412942">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="873" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600538412942" />
+  </component>
+</project>

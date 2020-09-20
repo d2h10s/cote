@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b643b8a6-540b-4ba1-b4fa-53c99e0501ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/.vs/Baekjoon_1260/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/.vs/Baekjoon_1260/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/.vs/Baekjoon_1260/v16/ipch/AutoPCH/a3f720829cf6ad2c/BAEKJOON_1260.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/.vs/Baekjoon_1260/v16/ipch/AutoPCH/f6b541240db99df0/BAEKJOON_1260.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Baekjoon_1260.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Baekjoon_1260.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Baekjoon_1260.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Baekjoon_1260.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/Baekjoon_1260.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/Baekjoon_1260.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Baekjoon_1260/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Debug/Baekjoon_1260.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baekjoon_1260/Debug/Baekjoon_1260.pdb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="shxjhsbj" />
+  </component>
+  <component name="ProjectId" id="1hlEkvre4Be2WDF3bNEBSJUatNo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b643b8a6-540b-4ba1-b4fa-53c99e0501ac" name="Default Changelist" comment="" />
+      <created>1600577424841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600577424841</updated>
+      <workItem from="1600577426038" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600577454560">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="836" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600577454560" />
+    <state x="1234" y="294" width="424" height="518" key="FileChooserDialogImpl" timestamp="1600577469044">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1234" y="294" width="424" height="518" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600577469044" />
+  </component>
+</project>
