@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Baekjoon_2231\Baekjoon_2231\Source.cpp(9,13): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Baekjoon_2231.vcxproj -> C:\Users\d2_h10s\OneDrive - 서울과학기술대학교\GitHub\Baekjoon_2231\Debug\Baekjoon_2231.exe
