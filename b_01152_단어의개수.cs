@@ -1,0 +1,1 @@
+using static System.Console;var s=ReadLine().Trim();Write(s==""?0:s.Split().Length);

@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 	short E, S, M, e = 1, s = 1, m = 1, yy = 1;
-	scanf_s("%hd %hd %hd", &E, &S, &M);
+	scanf("%hd %hd %hd", &E, &S, &M);
 	while (1) {
 		if (E == e && S == s && M == m) break;
 		if (e == E_Max) e = 1;

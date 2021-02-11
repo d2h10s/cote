@@ -1,0 +1,1 @@
+using static System.Console;using System.Linq;int n=int.Parse(ReadLine().Split()[1]);ReadLine().Split().Select(int.Parse).Where(x=>x<n).ToList().ForEach(x=>Write($"{x} "));

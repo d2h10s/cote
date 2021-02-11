@@ -11,7 +11,7 @@ float trit(float t);
 float d, r;
 
 int main() {
-	scanf_s("%f", &d);
+	scanf("%f", &d);
 	r = ((int)d % 360) * pi / 180;
 	float t = tris(r) / tric(r);
 	trit(t);

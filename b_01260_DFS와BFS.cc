@@ -51,10 +51,10 @@ void bfs(vector<vector<short>> edges, short start) {
 
 int main() {
 	short i, vorNum, edgeNum, start, u, v;
-	scanf_s("%hd %hd %hd", &vorNum, &edgeNum, &start);
+	scanf("%hd %hd %hd", &vorNum, &edgeNum, &start);
 	vector<vector<short>> edges(vorNum + 1, vector<short>());
 	for (i = 0; i < edgeNum; i++) {
-		scanf_s("%hd %hd", &u, &v);
+		scanf("%hd %hd", &u, &v);
 		edges.at(u).push_back(v);
 		edges.at(v).push_back(u);
 	}

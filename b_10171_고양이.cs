@@ -1,0 +1,4 @@
+System.Console.Write(@"\    /\
+ )  ( ')
+(  /  )
+ \(__)|");

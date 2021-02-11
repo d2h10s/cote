@@ -37,7 +37,7 @@ int main() {
 	cin >> size;
 	vector<short> number(size, 0), comb, copy;
 	for (i = 0; i < size; i++)
-		scanf_s("%hd", &number[i]);
+		scanf("%hd", &number[i]);
 	copy = number;
 	cout << dfs(size, 1, number, comb, copy, max);
 

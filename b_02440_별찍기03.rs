@@ -1,13 +1,14 @@
 use std::io;
+
 fn main() {
-    let mut s = String::new();
-    io::stdin().read_line(&mut s).unwrap();
-    let n:usize = s.trim().parse().unwrap();
-    let mut v:Vec<String> = Vec::new();
-    for i in (0..=n).rev() {
-        s = "*".repeat(i) + " ".repeat((n - i) *2).as_str() + "*".repeat(i).as_str() + "\n";
-        v.push(s.clone());
-        if i != n{v.insert(0,s.clone())};
-    }
-    print!("{}", v.join(""));
+  let mut s = String::new();
+  io::stdin().read_line(&mut s).unwrap();
+  let num = s.trim().parse::<usize>().unwrap(); 
+
+  let mut sb = String::new();
+  for i in 0..num {
+    sb.push_str("*".repeat(num - i).as_str());
+    sb.push_str("\n");
+  }
+  print!("{}", sb);
 }
