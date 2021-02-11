@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/home/d2h10s/miniconda3/bin/python"
+    "python.pythonPath": "/home/d2h10s/miniconda3/bin/python",
+    "files.associations": {
+        "*.html": "html",
+        "stdio.h": "c"
+    }
 }
