@@ -2,6 +2,13 @@
     "python.pythonPath": "/home/d2h10s/miniconda3/bin/python",
     "files.associations": {
         "*.html": "html",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "complex": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "functional": "cpp"
     }
 }
