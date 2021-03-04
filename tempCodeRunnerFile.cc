@@ -1,42 +1,16 @@
-#include <iostream>
-#include <queue>
-using namespace std;
+#include <stdio.h>
+#include <algorithm>
+#include <vector>
 
 int main(){
-    queue<int> q;
-    int n, tmp;
-    string com;
+    int n;
+    std::vector<int> v;
     scanf("%d", &n);
-    while(n--){
-        cin >> com;
-        if (com == "push"){
-            cin >> tmp;
-            q.push(tmp);
-        }
-        else if (com == "pop"){
-            if(q.size()){
-                printf("%d\n",q.back());
-                q.pop();
-            }
-            else printf("-1\n");
-        }
-        else if (com == "size"){
-            printf("%d\n",q.size());
-        }
-        else if (com == "empty"){
-            printf("%d\n",q.empty());
-        }
-        else if (com == "front"){
-            if(q.size())
-                printf("%d\n",q.front());
-            else
-                printf("-1\n");
-        }
-        else if (com == "back"){
-            if(q.size())
-                printf("%d\n",q.back());
-            else
-                printf("-1\n");
-        }
+    for(int i = 666; v.size() < n; i++){
+        std::cout << i << endl;
+        int len = 0;
+        for(int temp = i; temp > 0; temp /= 10) if(temp / 10 == 6) len++;
+        if(len == 3) v.push_back(i);
     }
+    printf("%d", v.back());
 }
