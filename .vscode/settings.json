@@ -9,6 +9,25 @@
         "complex": "cpp",
         "random": "cpp",
         "limits": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "cstdlib": "cpp",
+        "string": "cpp",
+        "exception": "cpp",
+        "memory_resource": "cpp",
+        "cmath": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "new": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "typeinfo": "cpp",
+        "utility": "cpp",
+        "core": "cpp",
+        "*.txx": "cpp",
+        "algorithm": "cpp"
     }
 }
