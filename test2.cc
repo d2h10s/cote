@@ -1,18 +1,14 @@
-#include <iostream>
-typedef struct{float score; int num;}grade;
-int main(){
-    int N = 5;
-    grade stu[5]{{10,0}, {3,1}, {13,2},{7,3},{9,4}};
-    for(int i = 1; i < N; i++){
-        int j = i;
-        while(j > 0 && stu[j-1].score > stu[j].score){
-            grade temp = stu[j];
-            stu[j] = stu[j-1];
-            stu[j-1] = temp;
-            j--;
-        }
-    }
-    for(int i = 0; i < N; i++){
-        printf("%d %f\n", stu[i].num, stu[i].score);
+#include<iostream>
+#include<math.h>
+using namespace std;
+
+int main(int argc, char** argv)
+{
+    sqrt(3);
+    int k = 11;
+    float x = k;
+    for(int i=0; i <5; i++){
+        x = 0.5*(x+k/x);
+        printf("%.10f\n", x);
     }
 }
