@@ -28,6 +28,7 @@
         "utility": "cpp",
         "core": "cpp",
         "*.txx": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "iosfwd": "cpp"
     }
 }

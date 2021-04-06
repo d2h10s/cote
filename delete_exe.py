@@ -1,6 +1,6 @@
 import os, glob
 
-files = glob.glob('*')
+files = glob.glob('**', recursive=True)
 isEmpty = True 
 for file in files:
     if '.' not in file:

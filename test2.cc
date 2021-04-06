@@ -1,15 +1,9 @@
-#include<iostream>
-using namespace std;
+#include <cstdio>
+#include <iostream>
 
-float sqrt(int k){
-    float x = k;
-    for(int i=0; i <5; i++){
-        x = 0.5*(x+k/x);
-        printf("%.10f\n", x);
-    }
-}
-int main(int argc, char** argv)
-{
-    int k = 11;
-    
+int main() {
+  std::ios::sync_with_stdio(false);
+  std::cout << "1\n";
+  std::printf("2\n");
+  std::cout << "3\n";
 }
