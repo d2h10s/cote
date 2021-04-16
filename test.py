@@ -1,1 +1,1 @@
-print(bin(8376539))
+print(eval(input()[:-1])))
