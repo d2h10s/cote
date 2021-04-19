@@ -18,7 +18,7 @@ string f(const string& s){
 }
 
 int main(int argc, char** arg){
-    string s = "";
+    string s = "0";
     cout << f(s);
 	return 0;//정상종료시 반드시 0을 리턴해야합니다.
 }

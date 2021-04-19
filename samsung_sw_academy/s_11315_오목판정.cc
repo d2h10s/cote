@@ -12,6 +12,7 @@ int dfs(int x, int y, int dx, int dy, int cnt){
     if (dfs(x + dx, y + dy, dx, dy, cnt)) return 1;
     else return 0;
 }
+
 int main(int argc, char** argv)
 {
 	int test_case;
