@@ -3,7 +3,7 @@ import os, glob
 files = glob.glob('**', recursive=True)
 isEmpty = True 
 for file in files:
-    if '.' not in file:
+    if '.' not in file and file != 'LICENSE':
         isEmpty = False
         if os.path.isdir(file):
             continue
