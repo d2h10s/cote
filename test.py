@@ -1,1 +1,4 @@
-print(eval(input()[:-1])))
+a = [1,2,3,4]
+b = a + [3,4]
+a = a + [7,8]
+print(a)
