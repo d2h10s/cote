@@ -12,7 +12,7 @@ def combinations(numbers, r): # combination without repetition
                    result.append(temp.copy())
                    visited[temp.pop()] = False
     return result
-    
+
 n = int(input())
 M = [list(map(int, input().split())) for _ in range(n)]
 starts = list(combinations(range(1,n+1),n//2))
@@ -21,11 +21,11 @@ result = 1e9
 for start, link in zip(starts, links):
     score_l = 0
     score_s = 0
-    for i in range(len(start)):
-        for j in range(len(start)):
-            if start[i]!=start[j]:
-                score_s += M[start[i]-1][start[j]-1]
-            if link[i] != link[j]:
-                score_l += M[link[i]-1][link[j]-1]
+    ss = list(combinations(start, 2))
+    ll = list(combinations(link, 2))
+    for s in ss:
+        score_s += M[s[0]-1][s[1]-1]+M[s[1]-1][s[0]-1]
+    for l in ll:
+        score_l += M[l[0]-1][l[1]-1]+M[l[1]-1][l[0]-1]
     result = min(result, abs(score_l-score_s))
 print(result)
