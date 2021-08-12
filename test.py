@@ -1,4 +1,3 @@
-a = 3
+from itertools import combinations
 
-if 10 <= a and a <= 20:
-    print("10 초과")
+print(list(combinations(range(1,5),2)))

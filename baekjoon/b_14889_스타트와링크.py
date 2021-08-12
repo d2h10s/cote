@@ -1,16 +1,20 @@
 def combinations(numbers, r): # combination without repetition
+    def dfs(idx):
+        if idx >= len(numbers):
+            return
+        if len(temp) == r:
+            result.append(tuple(temp.copy()))
+        for i in range(idx, len(numbers)):
+            if not visited[numbers[i]]:
+                visited[numbers[i]] = True
+                temp.append(numbers[i])
+                dfs(i)
+                visited[temp.pop()] = False
+            
     visited = dict(zip(numbers, [False for _ in numbers]))
     result = []
-    for i in numbers:
-        temp = [i]
-        visited[i] = True
-        for j in numbers:
-            if not visited[j]:
-               visited[j] = True
-               temp.append(j)
-               if len(temp) == r:
-                   result.append(temp.copy())
-                   visited[temp.pop()] = False
+    temp = []
+    dfs(0)
     return result
     
 n = int(input())
@@ -21,11 +25,11 @@ result = 1e9
 for start, link in zip(starts, links):
     score_l = 0
     score_s = 0
-    for i in range(len(start)):
-        for j in range(len(start)):
-            if start[i]!=start[j]:
-                score_s += M[start[i]-1][start[j]-1]
-            if link[i] != link[j]:
-                score_l += M[link[i]-1][link[j]-1]
+    ss = list(combinations(start, 2))
+    ll = list(combinations(link, 2))
+    for s in ss:
+        score_s += M[s[0]-1][s[1]-1]+M[s[1]-1][s[0]-1]
+    for l in ll:
+        score_l += M[l[0]-1][l[1]-1]+M[l[1]-1][l[0]-1]
     result = min(result, abs(score_l-score_s))
 print(result)
