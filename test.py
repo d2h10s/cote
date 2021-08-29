@@ -1,2 +1,3 @@
-a = 'A'
-print(int('10',36))
+if True:
+    pass
+print('abc')
