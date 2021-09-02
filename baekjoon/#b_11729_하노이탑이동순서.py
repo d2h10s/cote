@@ -1,6 +1,7 @@
 n = int(input())
 a = list(range(n,0,-1))
-b = []
+s = [a.pop()]
 c = []
-def recur(x):
-    a[-1]
+while s:
+    now = s.pop()
+    
