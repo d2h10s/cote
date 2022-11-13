@@ -1,0 +1,1 @@
+print(sum([1 for y in [sum(list(map(int, input().split()))) for _ in range(int(input()))] if y>1]))
