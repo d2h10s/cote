@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.saf": "c",
+        "*.sre": "s19",
+        "queue": "cpp",
+        "stack": "cpp"
+    }
+}
